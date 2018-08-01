@@ -1,0 +1,34 @@
+[char] read data:00 01
+[char] read data:00 01
+[char] read data:00 01
+[HEX] read data:00 00 48 C4 28 
+[HEX] read data:00 00 00 00 00 
+[HEX] read data:00 00 00 00 00 
+[HEX] read data:00 00 28 C4 28 
+[char] read data:00 01
+[char] read data:00 01
+[char] read data:00 01
+[HEX] read data:00 00 48 C4 28 00 CD 85 90 00 
+[HEX] read data:00 00 00 00 00 00 DA 98 3A 75 
+[HEX] read data:00 00 00 00 00 00 DA 98 3A 75 
+[HEX] read data:00 00 00 00 00 00 DA 98 3A 75 
+[HEX] read data:00 00 00 00 00 00 DA 98 3A 75 
+[HEX] read data:00 00 00 00 00 00 DA 98 3A 75 
+[HEX] read data:01 23 00 00 00 00 81 02 00 00 
+[HEX] read data:01 23 00 00 00 00 DA 98 3A 75 
+[HEX] read data:01 23 00 00 00 00 DA 98 3A 75 
+[HEX] read data:01 23 00 00 00 00 DA 98 3A 75 
+[HEX] read data:01 23 00 00 00 00 DA 98 3A 75 
+[HEX] read data:01 23 00 00 00 00 DA 98 3A 75 
+[HEX] read data:01 23 00 00 00 00 DA 98 3A 75 
+[HEX] read data:01 23 
+[HEX] read data:01 23 
+[HEX] read data:01 23 
+[HEX] read data:01 23 
+[HEX] read data:01 23 
+[HEX] read data:01 23 
+[HEX] read data:01 23 
+[HEX] read data:01 23 
+[HEX] read data:01 23 
+[HEX] read data:01 23 
+[HEX] read data:01 23 
